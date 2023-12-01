@@ -1,7 +1,3 @@
-![web](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/286944060_133874619275322_5007718467857530974_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=RPQHQCUUoOwAX_OKThF&tn=My8EatLXxcsC695J&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT-qeFKQm1uipCmnH631IGlJDBDl1TFmElvA0AxnzTtiyQ&oe=6357A0FB)
-
-
-
 ### Hi there 👋, I'm Md sanaullah
 #### web devlopar
 
