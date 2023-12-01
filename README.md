@@ -1,17 +1,15 @@
 # Hi there! 👋
 
-I'm Sanaullah, a dedicated MERN stack developer with a passion for creating web applications that not only look good but also deliver seamless user experiences. My journey in the coding world has been fueled by a curiosity to build meaningful and efficient solutions.
+I'm Sanaullah, A dedicated MERN stack developer with a passion for creating web applications that not only look good but also deliver seamless user experiences. My journey in the coding world has been fueled by a curiosity to build meaningful and efficient solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaullah963&label=Profile%20views&color=0e75b6&style=flat" alt="sanaullah963" /> </p>
 
-
-<div align="left">
-[![Twitter](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
+## Connect with Me
+[![Twitter](https://img.shields.io/twitter/follow/sanaullah963?style=social)](https://twitter.com/sanaullah963)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/intisar-sanaullah-9abb67297/)
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/sanaullah963)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com)
+[![GitHub](https://img.shields.io/github/followers/sanaullah963?label=Follow&style=social)](https://github.com/sanaullah963)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/onlineincomepolicy)
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://www.facebook.com/intisarsanaullah)
-</div>
 
 ###
 
